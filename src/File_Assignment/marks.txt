@@ -1,0 +1,5 @@
+First Name     Last Name      Math      Science   English   Average
+John           Smith          75        75        76        75.33
+Linda          Lee            76        75        75        75.33
+Joe            Biden          75        76        75        75.33
+Average                       75.33     75.33     75.33     75.33     
